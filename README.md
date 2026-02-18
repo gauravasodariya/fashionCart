@@ -1,7 +1,8 @@
 # fashionCart 🛍️
 
-A full-stack e-commerce application for fashion products built with the MERN stack (MongoDB, Express.js, React, Node.js).
+A modern full-stack e-commerce platform for fashion enthusiasts, built with the MERN stack (MongoDB, Express.js, React, Node.js). 
 
+Shop the latest fashion trends with a seamless shopping experience featuring secure payments via Razorpay, real-time order tracking, and an intuitive admin dashboard for comprehensive store management. Perfect for fashion retailers looking to establish their online presence.
 ## 🚀 Features
 
 ### User Features
@@ -176,7 +177,9 @@ fashionCart/
 
 ## 👨‍💻 Author
 
-**Build Gaurav Asodariya**
-- GitHub: [@gauravasodariya](https://github.com/gauravasodariya)
+Gaurav Asodariya
+MSc IT Student, DAIICT
+
+GitHub: https://github.com/gauravasodariya
 
 
